@@ -1,3 +1,2 @@
-# Edgar-Jose-Hurtado-Zeballos
-SAMPLE
+# SAMPLE
 This is an assignment file.
